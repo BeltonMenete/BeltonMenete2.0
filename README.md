@@ -9,7 +9,7 @@
 
 #### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px>
 
-🚀 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.dev) <br>
+🔗 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.dev) <br>
 🐦 [𝗧𝘄𝗶𝘁𝘁𝗲𝗿](https://X.com/Belton_menete) <br>
 📸 [𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://instagram.com/Belton_alberto) <br>
 💼 [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻](https://www.linkedin.com/in/beltonmenete/) <br>
