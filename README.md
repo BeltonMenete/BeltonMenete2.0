@@ -32,8 +32,6 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white" /></a> </br>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a> </br>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Math+Sans+Bold&weight=900&size=14&duration=2300&color=7731D8&width=435&lines=God+Bless+You!+%F0%9F%99%8F%F0%9F%8F%BD)](https://git.io/typing-svg)
 
