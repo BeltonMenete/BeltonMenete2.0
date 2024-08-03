@@ -7,7 +7,7 @@
 -   💅 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗫𝗶𝘁𝗶𝗾𝘂𝗲 𝗔𝗣𝗣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -   🇲🇿 𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
 
-#### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px>
+#### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 35px height = 10px>
 
 🚀 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.dev) <br>
 🐦 [𝗧𝘄𝗶𝘁𝘁𝗲𝗿](https://X.com/Belton_menete) <br>
