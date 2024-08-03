@@ -16,7 +16,7 @@
 
 #### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=800080&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=7731d8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <summary><b>⚡ 𝗥𝗲𝗰𝗲𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</b></summary> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beltonmenete&color=blueviolet" alt="Thanks to Jesus Christ" />
