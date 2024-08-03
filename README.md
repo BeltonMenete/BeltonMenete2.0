@@ -14,7 +14,7 @@
 📸 [𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://instagram.com/Belton_alberto) <br>
 💼 [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻](https://www.linkedin.com/in/beltonmenete/) <br>
 
-#### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 :: 🎧 </strong></p>
+#### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 🎧 </strong></p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=800080&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -37,4 +37,4 @@
 
 #### 𝗔𝗹𝗹 𝗿𝗶𝗴𝗵𝘁𝘀 𝗿𝗲𝘀𝗲𝗿𝘃𝗲𝗱
 
-[MIT License](http://BeltonMenete.mit-license.org/) @𝓑𝓮𝓵𝓽𝓸𝓷 𝓜𝓮𝓷𝓮𝓽𝓮
+[MIT License](http://BeltonMenete.mit-license.org/) @𝑩𝒆𝒍𝒕𝒐𝒏 𝑴𝒆𝒏𝒆𝒕𝒆
