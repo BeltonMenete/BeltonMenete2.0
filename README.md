@@ -9,12 +9,14 @@
 
 #### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px>
 
-🔗 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.dev) <br>
+🔗 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.x) <br>
 &nbsp;𝕏 &nbsp;[𝗧𝘄𝗶𝘁𝘁𝗲𝗿](https://X.com/Belton_menete) <br>
-📸 [𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://instagram.com/Belton_alberto) <br>
-💼 [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻](https://www.linkedin.com/in/beltonmenete/) <br>
+&nbsp;<a href="https://instagram.com/Belton_alberto/"><img src="instagram.svg" alt="A man holding the Bible" width="13px" height="">&nbsp;&nbsp;𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺</a>
+<br>
+&nbsp;<a href="https://www.linkedin.com/in/beltonmenete/"><img src="./linkedin.svg" alt="A man holding the Bible" width="13px" height="">&nbsp;&nbsp;𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻</a>
 
 #### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 🎧
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=8a33d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <summary><b>⚡ 𝗥𝗲𝗰𝗲𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</b></summary> <br>
@@ -31,4 +33,3 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-
