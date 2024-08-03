@@ -7,14 +7,14 @@
 -   💅 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗫𝗶𝘁𝗶𝗾𝘂𝗲 𝗔𝗣𝗣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -   🇲🇿 𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
 
-#### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 25px>
+#### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px>
 
 🚀 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.dev) <br>
 🐦 [𝗧𝘄𝗶𝘁𝘁𝗲𝗿](https://X.com/Belton_menete) <br>
 📸 [𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://instagram.com/Belton_alberto) <br>
 💼 [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻](https://www.linkedin.com/in/beltonmenete/) <br>
 
-#### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 <img src = "./songEmojigif.gif" width = 30px height = 20px >
+#### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=800080&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
