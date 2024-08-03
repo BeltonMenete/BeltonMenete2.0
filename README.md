@@ -24,11 +24,8 @@
 
 #### 𝗔𝗹𝗹 𝘁𝗼𝗼𝗹𝘀 <br>
 
-<a href="https://www.w3schools.com">Visit W3Schools.com!><img src="{BadgeURLHere}" /></a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!><img src="{BadgeURLHere}" /></a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!><img src="{BadgeURLHere}" /></a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!><img src="{BadgeURLHere}" /></a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!><img src="{BadgeURLHere}" /></a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!><img src="{BadgeURLHere}" /></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Math+Sans+Bold&weight=1000&size=13&pause=1000&color=8A2BE2&width=435&lines=God+Bless+you!)](https://git.io/typing-svg)
 
 #### 𝗔𝗹𝗹 𝗿𝗶𝗴𝗵𝘁𝘀 𝗿𝗲𝘀𝗲𝗿𝘃𝗲𝗱
