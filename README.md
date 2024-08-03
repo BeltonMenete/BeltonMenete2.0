@@ -14,7 +14,7 @@
 📸 [Instagram](https://instagram.com/Belton_alberto) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/beltonmenete/) <br>
 
-#### Listening to : 🎧
+#### Listening to : 🎧 </strong></p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=800080&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
