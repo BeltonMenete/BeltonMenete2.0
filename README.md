@@ -33,8 +33,3 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Math+Sans+Bold&weight=900&size=14&duration=2300&color=7731D8&width=435&lines=God+Bless+You!+%F0%9F%99%8F%F0%9F%8F%BD)](https://git.io/typing-svg)
-
-#### 𝗔𝗹𝗹 𝗿𝗶𝗴𝗵𝘁𝘀 𝗿𝗲𝘀𝗲𝗿𝘃𝗲𝗱
-
-[MIT License](http://BeltonMenete.mit-license.org/) @𝑩𝒆𝒍𝒕𝒐𝒏 𝑴𝒆𝒏𝒆𝒕𝒆
