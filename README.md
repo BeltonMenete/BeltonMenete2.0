@@ -9,11 +9,11 @@
 
 #### 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px>
 
-🔗 [𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.x) <br>
-&nbsp;𝕏 &nbsp;[𝗧𝘄𝗶𝘁𝘁𝗲𝗿](https://X.com/Belton_menete) <br>
-&nbsp;<a href="https://instagram.com/Belton_alberto/"><img src="instagram.svg" alt="A man holding the Bible" width="13px" height="">&nbsp;&nbsp;𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺</a>
+🔗[𝗠𝘆 𝗪𝗲𝗯𝗦𝗶𝘁𝗲](https://devalberto.x) <br>
+&nbsp;𝕏 [𝗧𝘄𝗶𝘁𝘁𝗲𝗿](https://X.com/Belton_menete) <br>
+&nbsp;<a href="https://instagram.com/Belton_alberto/"><img src="instagram.svg" alt="A man holding the Bible" width="13px" height="">&nbsp;𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺</a>
 <br>
-&nbsp;<a href="https://www.linkedin.com/in/beltonmenete/"><img src="./linkedin.svg" alt="A man holding the Bible" width="13px" height="">&nbsp;&nbsp;𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻</a>
+&nbsp;<a href="https://www.linkedin.com/in/beltonmenete/"><img src="./linkedin.svg" alt="A man holding the Bible" width="13px" height="">&nbsp;𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻</a>
 
 #### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 🎧
 
